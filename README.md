@@ -7,5 +7,10 @@ Index of Python Scripts:
   <li>diceSimRandInt.py</li>
   <li>diceSimRandList.py</li>
   <li>tinybc.py</li>
+  <ul>
+  <li>TinyBC is a small block chain example using auto generated currency written to a text file</li>
+    </ul>
 </ul>
 
+
+     
