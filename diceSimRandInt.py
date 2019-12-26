@@ -1,6 +1,6 @@
 import random
 import time
-# This is a simulated dice roll application using error excepts and rules. by newklear December 2019!
+# This is a simulated dice roll application using error excepts and rules and random integers. by newklear December 2019!
 count = 1
 low = 1
 while True:
